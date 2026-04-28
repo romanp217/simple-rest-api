@@ -3,7 +3,7 @@
 A basic REST API built with **FastAPI** for managing users, products, and orders.  
 Includes in-memory storage, Pydantic validation, and automatic interactive documentation.
 
-🔗 **Live Demo**: [https://simple-rest-api-ifu8.onrender.com//docs](https://simple-rest-api.onrender.com/docs)
+🔗 **Live Demo**: [https://simple-rest-api-ifu8.onrender.com/docs](https://simple-rest-api-ifu8.onrender.com/docs)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.136-green)
